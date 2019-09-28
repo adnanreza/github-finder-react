@@ -1,4 +1,4 @@
-# itLogger
+# GitHubFinder
 
 ## Project Deployed at: https://githubfinderreactar.netlify.com/
 
